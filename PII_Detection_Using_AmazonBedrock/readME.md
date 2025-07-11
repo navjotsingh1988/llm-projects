@@ -25,8 +25,6 @@ The system consists of:
   ├── Amazon Bedrock
   ├── Amazon DynamoDB
 ```
-(./logmoderation-AmazonBedrock.png)
-
 ## Implementation Steps:
 ```
 - Create an Amazon S3 Bucket. Enable EventBridge notifications on all object
