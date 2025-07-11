@@ -25,6 +25,8 @@ The system consists of:
   ├── Amazon Bedrock
   ├── Amazon DynamoDB
 ```
+![Alt text](workflow.png)
+
 ## Implementation Steps:
 ```
 - Create an Amazon S3 Bucket. Enable EventBridge notifications on all object
